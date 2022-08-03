@@ -14,8 +14,37 @@
         android:theme="@style/Theme.MySkout"
         tools:targetApi="31">
         <activity
-            android:name=".InnerActivity"
+            android:name=".CandidatosActivity"
             android:exported="false" />
+        <activity
+            android:name=".TalentosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PerfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ParceriasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RecrutadoresActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VagasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuPrincipalActivity"
+            android:exported="false"
+            android:theme="@style/appsembar" />
+        <activity
+            android:name=".JanelaComponentesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JanelaCordnatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InnerActivity"
+            android:exported="false"
+            android:theme="@style/appsembar" />
         <activity
             android:name=".JanelaFrameActivity"
             android:exported="false" />
@@ -27,12 +56,6 @@
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
-            android:exported="false" />
-        <activity
-            android:name=".LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -40,6 +63,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
