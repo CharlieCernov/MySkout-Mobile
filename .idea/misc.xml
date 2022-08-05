@@ -9,6 +9,7 @@
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/ic_baseline_email.xml" value="0.1805" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.1805" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/candidatos_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/inner_layout.xml" value="0.25" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/janela_componentes_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/janela_cordnator_layout.xml" value="0.17" />
@@ -17,7 +18,10 @@
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/janela_table_layout.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/login_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/menu_principal_layout.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/parcerias_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/layout/splash_layout.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/menu/menu_bottom_bar.xml" value="0.271875" />
+        <entry key="..\:/Users/charlie.bcamarante/Documents/ProjetoAndroid/MySkout/app/src/main/res/menu/menu_parcerias.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>
