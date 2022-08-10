@@ -7,4 +7,6 @@
     <string name="insira_seu_usu_rio">Insira seu usuário</string>
     <string name="insira_sua_senha">Insira sua senha</string>
     <string name="imagem_principal">Imagem Principal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
